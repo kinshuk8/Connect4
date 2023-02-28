@@ -1,2 +1,3 @@
 # Connect4
-Connect4 Game
+Connect4 Game using Java
+
